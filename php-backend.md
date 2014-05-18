@@ -91,13 +91,17 @@ UML
 
 1. What is UML?
 2. What UML diagram would you use for the following?
-“The client sends a request to the Webserver. The Webserver makes a query to the database. After receiving the database response, the Webserver processes the results. Finally, the Webserver responds to the client”
+
+   “The client sends a request to the Webserver. The Webserver makes a query to the database. After receiving the database response, the Webserver processes the results. Finally, the Webserver responds to the client”
 3. What UML diagram would you use for the following?
-“First you initialize the sum variable to zero. Then you loop through all elements of the input array. For each element, you add the element's price to the sum variable. At the end, you print the sum variable.”
+
+   “First you initialize the sum variable to zero. Then you loop through all elements of the input array. For each element, you add the element's price to the sum variable. At the end, you print the sum variable.”
 4. What UML diagram would you use for the following?
-“When a payment transaction is created, it's said to be in “CREATED” state. From this state, it can either be accepted or rejected by the administrator. If it's accepted, its state becomes “ACCEPTED”, otherwise it becomes “REJECTED”.”
+
+   “When a payment transaction is created, it's said to be in “CREATED” state. From this state, it can either be accepted or rejected by the administrator. If it's accepted, its state becomes “ACCEPTED”, otherwise it becomes “REJECTED”.”
 5. What UML diagram would you use for the following?
-“The system will consist of a MySQL database which is connected to an Apache Webserver, running our PHP Web Service. The PHP Web Service is then accessible from the HTML5 Web Application and the Mobile Applications over HTTPS”
+
+   “The system will consist of a MySQL database which is connected to an Apache Webserver, running our PHP Web Service. The PHP Web Service is then accessible from the HTML5 Web Application and the Mobile Applications over HTTPS”
 
 Yii Framework
 -------------
