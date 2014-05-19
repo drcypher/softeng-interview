@@ -20,6 +20,32 @@ Key areas
 6. Application Interfaces (HTTP)
 7. Testing
 
+Previous Experience
+-------------------
+
+1. What was the most challenging, yet recent, project you worked on?
+2. What technologies/architecture did you use?
+4. What were your daily tasks?
+5. How did you develop and share code?
+5. How did you test code?
+6. How did you deploy code?
+6. How did you manage the team's different configurations?
+7. How did you handle source code conflicts with other team members?
+
+### Documentation
+
+8. Did you write/maintain code documentation?
+9. How did you produce documentation from your source code?
+
+
+### Database
+
+1. How large was the database schema you were handling?
+2. How did you version database schema/data changes?
+3. How did you document the database schema?
+
+
+
 Data Modeling – Databases
 -------------------------
 
@@ -31,22 +57,13 @@ Data Modeling – Databases
 Transactions & Concurrency – Databases
 --------------------------------------
 
-1. What is Atomicity in ACID?
-2. What is Consistency in ACID?
-3. What is Isolation in ACID?
-4. What is Durability in ACID?
+1. What is Atomicity/Consistency/Isolation/Durability in ACID?
 5. Give an example of transaction usage
 6. What is a deadlock?
 7. What is an aggregate query?
 8. What is the difference between a LEFT OUTER JOIN and an INNER JOIN?
 9. What is a standard alternative to most subqueries?
 10. Are INDEXes always a good idea?
-
-
-Database Maintenance
---------------------
-
-1. How do you version database schema/data changes?
 
 
 Object-Relational Mapping
@@ -113,15 +130,6 @@ Yii Framework
 5. What does CComponent offer?
 
 
-Working with a team
--------------------
-
-1. How do you develop and test code when working with a team?
-2. How do you manage the team's different configurations?
-3. How do you avoid source code conflicts with other team members?
-4. How do you reduce the need for “how does this class you built” questions between team members?
-
-
 HTTP
 ----
 
@@ -129,12 +137,6 @@ HTTP
 2. Can you have a request body in GET requests?
 3. Why would you need a Web API?
 4. What is the difference between a RESTful and an RPC-style web API?
-
-Documentation
--------------
-
-1. How dow you produce documentation from your source code?
-
 
 References
 ----------
