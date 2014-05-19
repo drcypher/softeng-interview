@@ -31,7 +31,7 @@ Previous Experience
    4. Web Server - Apache, nGinx, other
    5. NoSQL - Memcache, Redis, Mongodb, Couchdb, other
    6. OS - Windows, Linux
-4. What were your daily tasks?
+3. What were your daily tasks?
 
 ### Planning and Management
 
@@ -212,8 +212,6 @@ Object-Relational Mapping
 1. What is ActiveRecord?
 2. What is lazy and eager loading? What is their difference?
 
-
-
 Software Engineering Principles and Paradigms
 ---------------------------------------------
 
@@ -222,6 +220,7 @@ Software Engineering Principles and Paradigms
 3. What is Refactoring?
 4. What is Coupling?
 5. What is Encapsulation/Abstraction/Inheritance/Polymorphism in OOP?
+
 
 Software Engineering Design and Enterprise Patterns
 -----------------------------------------------
@@ -233,6 +232,11 @@ Software Engineering Design and Enterprise Patterns
 5. What is the MVC pattern?
 6. What is a Service Layer?
 7. What is a Data Transfer Object?
+
+Software Architecture
+---------------------
+1. What is a 3-tier architecture?
+2. 
 
 Programming Language – PHP
 --------------------------
@@ -284,6 +288,13 @@ HTTP
 3. Why would you need a Web API?
 4. What is the difference between a RESTful and an RPC-style web API?
 
+Security
+---------
+1. What is SQL injection?
+
+Other Technologies
+------------------
+1. What is IMAP / POP3?
 
 References
 ----------
